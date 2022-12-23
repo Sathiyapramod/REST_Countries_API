@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+:root{
+    --primary-ff: 'Roboto', sans-serif;
+}
+*{
+    font-family: var(--primary-ff);
+}
+card{
+    background-color: beige !important;
+}
+body{
+    background-color: whitesmoke;
+}
